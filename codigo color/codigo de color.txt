@@ -1,0 +1,5 @@
+202020 sombra muy oscuro de gris
+e5b82e sombra de amarillo
+f8f8ff sombra muy claro de azul-magenta
+ff7031 sombra de rojo-naranja
+fed5d9 sombra muy claro de rosa-rojo

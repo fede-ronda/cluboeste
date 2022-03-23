@@ -1,5 +1,5 @@
 body{
-    background-color: #e5b82e;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 #clubnav{
@@ -28,6 +28,10 @@ body{
     margin: 5px 10px;
 }
 
+.fondo-img{
+    width: 100%;
+    height: auto;
+}
 
 .top-bar{
     display: flex;
