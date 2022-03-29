@@ -1,6 +1,12 @@
 body{
+    background-image: url(../img/fondo1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     font-family: 'Ubuntu', sans-serif;
 }
+
+
 
 #clubnav{
     font-size: 40px;
@@ -28,9 +34,98 @@ body{
     margin: 5px 10px;
 }
 
-.fondo-img{
-    width: 100%;
-    height: auto;
+#elclub-caja{
+    background: rgba(0, 0, 0, .8);
+    border-radius: 20px 20px 0px 20px;
+    margin: 100px auto;
+    width: 1000px;
+    height: 600px;
+}
+
+#elclub-contenido{
+    color: #fff;
+}
+
+#elclub-titulo{ 
+    font-family: 'Nunito', sans-serif;
+    font-size: 35px;
+
+}
+#elclub-img{
+    margin: 30px 20px;
+    width: 110px;
+    height: 110px;
+}
+
+#elclub-texto1{
+    margin: -45px 180px;
+    font-size: 18px;
+}
+
+#elclub-texto2{
+    margin: 60px 180px;
+    font-size: 18px;
+}
+
+#socio-caja{
+    background: rgba(0, 0, 0, .8);
+    border-radius: 20px 20px 0px 20px;
+    margin: 100px auto;
+    width: 1000px;
+    height: 700px;
+}
+
+#socio-contenido{
+    color: #fff;
+}
+
+#socio-titulo{ 
+    font-family: 'Nunito', sans-serif;
+    font-size: 35px;
+
+}
+#socio-img{
+    margin: 30px 20px;
+    width: 110px;
+    height: 110px;
+}
+
+#socio-texto1{
+    margin: -45px 180px;
+    font-size: 18px;
+}
+
+#socio-texto2{
+    margin: 60px 180px;
+    font-size: 18px;
+}
+
+.ul1{
+    margin: -25px 0px;
+}
+
+.p1{
+    font-size: 18px;
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 70px;
+    padding-inline-start: 180px;
+}
+
+.shop-caja{
+    background: rgba(0, 0, 0, .8);
+    border-radius: 20px 20px 20px 20px;
+    margin: 20px auto;
+    width: 1450px;
+    height: 700px;
+}
+
+.shop-card{
+    padding: 30px 30px;
+
 }
 
 .top-bar{
