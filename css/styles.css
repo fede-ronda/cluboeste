@@ -123,10 +123,13 @@ body{
     height: 700px;
 }
 
-.shop-card{
-    padding: 30px 30px;
-
+#shop-card{
+    padding: 60px;
 }
+
+
+
+
 
 .top-bar{
     display: flex;
